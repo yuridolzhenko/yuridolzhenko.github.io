@@ -33,12 +33,10 @@ Full stack java developer with about 10 years of experience in designing, develo
 	I'm not limiting myself to only working in office 40 hours a week. In our craft we are having hard time keeping pace with things and technologies that are moving forward and changing sometimes way too fast. To stay aligned and share knowledge, I'm writing [blog posts][7] (not that often, but I'm working on it) and doing homebrew [projects][8] and researches (mostly around data analysis and visualization, since I'm a mathematician and love it when things are looking good visually). That keeps me in shape and allows to touch and try new things (that is not always possible in conservative and slow enterprise environments).
 
 ### _Education & certification_
-- **2001-2006, Mathematician, system programmer (master degree)**
-	_Kuban State University, Krasnodar, Russia_
--  **2013, Certified Spring Professional**
-	_VMWare training & certification_
-- **2012, MongoDB Developer**
-	_10Gen training & certification_
+- **2001-2006, Mathematician, system programmer, master degree** _(Kuban State University, Krasnodar, Russia)_
+- **2012, MongoDB Developer** _(10Gen training & certification)_
+- **2013, Certified Spring Professional** _(VMWare training & certification)_
+
 
 [1]:	http://www.qualogy.nl/ "http://www.qualogy.nl"
 [2]:	www.secondfloor.com
@@ -47,4 +45,4 @@ Full stack java developer with about 10 years of experience in designing, develo
 [5]:	http://www.sapiens.com/solutionssapiens-pc/
 [6]:	http://www.rostelecom.ru/
 [7]:	http://42.yuridolzhenko.com
-[8]:	http:/www.yuridolzhenko.comprojects.html
+[8]:	http:/www.yuridolzhenko.com/projects.html
