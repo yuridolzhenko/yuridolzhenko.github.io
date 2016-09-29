@@ -1,6 +1,7 @@
 # Yuri Dolzhneko
 ### Full stack software engineer
 ##### +31 (0) 634883558 | yuridolzhenko.com | yuri.dolzhenko@gmail.com
+##### Born 19 December, 1984
 ---- 
 ### _Summary_
 Full stack java developer with about 10 years of experience in designing, developing and maintaining software solutions for large international finance and insurance companies.
