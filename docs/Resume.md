@@ -8,7 +8,7 @@ Full stack java developer with about 10 years of experience in designing, develo
 ### _Keywords_
 > **Expertise**: Internet/Intranet software solutions design and development, RESTful API’s, microservices, requirements definition, data analysis, database design
 > **Process**: agile, scrum, devops, prototyping, continuous integration and delivery
-> **Tools**: Java, Groovy, Spring Framework, Maven, JPA, Hibernate, Junit, Mockito, SQL, Oracle, MySQL, MongoDB, R, JavaScript, TypeScript, NodeJS, Bower, JQuery, Ext JS, D3.js, AngularJS 1/2, XML, JSON, Unix, Bash, Docker, Tomcat, Git, SonarQube, Jira, Confluence, Bamboo, Jenkins
+> **Tools**: Java, Groovy, Spring Framework, Maven, JPA, Hibernate, Hystrix, RxJava, Junit, Mockito, SQL, Oracle, MySQL, MongoDB, R, JavaScript, TypeScript, NodeJS, Bower, JQuery, Ext JS, D3.js, AngularJS 1/2, XML, JSON, Unix, Bash, Docker, Tomcat, Git, SonarQube, Jira, Confluence, Bamboo, Jenkins
 ### _Experience_
 - **2014 - present**, Qualogy, ([http://www.qualogy.nl][1]), The Netherlands
 	_Consultant_
