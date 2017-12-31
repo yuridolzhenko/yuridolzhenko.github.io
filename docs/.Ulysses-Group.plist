@@ -3,12 +3,62 @@
 <plist version="1.0">
 <dict>
 	<key>createMarkedFile</key>
-	<false/>
+	<integer>0</integer>
+	<key>resolutionData</key>
+	<dict>
+		<key>createMarkedFile</key>
+		<real>477152593</real>
+		<key>sheetClusters</key>
+		<dict>
+			<key>Cover Letter.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>487802181.37590599</real>
+				<key>lastModification</key>
+				<real>487802181.37590599</real>
+				<key>version</key>
+				<dict>
+					<key>f252f22648e0856ff053722188285e4b19b929f075c87154663ea4c3ed9fe151</key>
+					<integer>6</integer>
+				</dict>
+			</dict>
+			<key>Resume.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>477152593</real>
+				<key>version</key>
+				<dict>
+					<key>legacy-477152593.000000</key>
+					<integer>1</integer>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
 	<key>sheetClusters</key>
 	<array>
+		<array>
+			<string>Cover Letter.md</string>
+		</array>
 		<array>
 			<string>Resume.md</string>
 		</array>
 	</array>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>versioning</key>
+	<dict>
+		<key>createMarkedFile</key>
+		<dict>
+			<key>f252f22648e0856ff053722188285e4b19b929f075c87154663ea4c3ed9fe151</key>
+			<integer>1</integer>
+		</dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>f252f22648e0856ff053722188285e4b19b929f075c87154663ea4c3ed9fe151</key>
+			<integer>6</integer>
+		</dict>
+	</dict>
 </dict>
 </plist>
