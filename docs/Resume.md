@@ -35,9 +35,6 @@ Full stack java developer with about 10 years of experience in designing, develo
 -  **2007-2008**, Rostelecom ([http://www.rostelecom.ru/][7]), Russia
 	_Java developer_
 	I started my career as a java developer in the biggest Russian landline telecommunications company. I was working in a chapter of the IT department, where we worked on various small-to-medium sized intranet applications used by company's employees for very different reasons - starting from internal HR tools and finishing with customer's profiles management applications (typically, struts-powered servlets, running on Tomcat that were connected to Oracle databases using mainly JDBC). There I had my first experience with what later will be called single page applications and RESTful API's - first version of Google's GWT framework was released around that time and we adopted it for couple of our projects. No one heard of Jira, agile, test driven development or devops back then, but we were responsible for everything starting from initial design to production deployment and support.
----- 
-- **Personal projects and research**
-	I'm not limiting myself to only working in office 40 hours a week. In our craft we are having hard time keeping pace with things and technologies that are moving forward and changing sometimes way too fast. To stay aligned and share knowledge, I'm writing [blog posts][8] (not that often, but I'm working on it) and doing homebrew [projects][9] and researches (mostly around data analysis and visualization, since I'm a mathematician and love it when things are looking good visually). That keeps me in shape and allows to touch and try new things (that is not always possible in conservative and slow enterprise environments).
 
 ### _Education & certification_
 - **2001-2006, Mathematician, system programmer, master degree** _(Kuban State University, Krasnodar, Russia)_
@@ -52,5 +49,3 @@ Full stack java developer with about 10 years of experience in designing, develo
 [5]:	http://www.in-touch.ru/ "http://www.in-touch.ru"
 [6]:	http://www.sapiens.com/solutionssapiens-pc/
 [7]:	http://www.rostelecom.ru/
-[8]:	http://42.yuridolzhenko.com
-[9]:	http:/www.yuridolzhenko.com/projects.html
