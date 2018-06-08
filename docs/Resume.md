@@ -38,11 +38,9 @@ Lots of Java and JVM languages on a backend. Legacy systems, monoliths, refactor
 ----
 -  **2007-2008**, Rostelecom ([http://www.rostelecom.ru/][7]), Russia
 	_Java developer_
-	I started my career as a java developer in the biggest Russian landline telecommunications company. I was working there in a department responsible for a bunch of intranet applications used by company's employees for many purposes like managing HR matters or dealing with customer's billing. RPCs instead of RESTful APIs, Struts instead of Spring, pure JDBC instead of object-relational mapping tools, no continious deployment or delivery. No one heard of Jira, agile, test driven development or devops back then, but we were responsible for everything starting from initial design to production deployment and supporting of our users.
+	
+	I started my career as a java developer in the biggest Russian telecommunications company. There I was working in a department responsible for a bunch of intranet applications used by company's different departments (HR, billing, etc). RPCs instead of RESTful APIs, Struts instead of Spring, pure JDBC instead of object-relational mapping tools, no continious deployment or delivery. No Jira, agile, test driven development or devops just yet, but we were responsible for everything starting from initial design to production deployment and supporting of our users.
 
-
-
-I was working in a chapter of the IT department, where we worked on various small-to-medium sized intranet applications used by company's employees for very different reasons - starting from internal HR tools and finishing with customer's profiles management applications (typically, struts-powered servlets, running on Tomcat that were connected to Oracle databases using mainly JDBC). There I had my first experience with what later will be called single page applications and RESTful API's - first version of Google's GWT framework was released around that time and we adopted it for couple of our projects. 
 
 ### _Education & certification_
 - **2001-2006, Mathematician, system programmer, master degree** _(Kuban State University, Krasnodar, Russia)_
