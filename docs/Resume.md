@@ -5,7 +5,7 @@
 ##### +31 (0) 634883558 | yuridolzhenko.com | yuri.dolzhenko@gmail.com
 ----
 ### _Summary_
-Full stack developer with about 10 years of experience in designing, developing and maintaining software solutions for large international finance and insurance companies.
+Full stack developer with about 10 years of experience in designing, developing and maintaining software solutions for large international businesses.
 
 ### _Buzzwords_
 Lots of Java and JVM languages on a backend. Legacy systems, monoliths, refactoring of those. RESTful APIs and microservices powered by Spring framework and others. Data centers on premises or AWS. A bit of data analytics using map-reduce, R and some other fancy tools. SQL or NOSQL databases - all may work, depending on a task to solve. Angular, Typescript, D3.js, Ext JS for creating modern user interfaces and single page applications. NPM, Bower, Maven, Gradle for managing dependencies and building things. Atlassian tools for managing projects and knowledge sharing. Git - for version control, Jenkins and GitLab for continuous integration and delivery, Docker - for portability and predictability. Sonar, JUnit, Mockito, Karma, Jasmine, Selenium to make sure things are reliable. Reactive and functional programming for efficiency and performance. Agile, scrum and devops for making this list complete.
@@ -38,7 +38,11 @@ Lots of Java and JVM languages on a backend. Legacy systems, monoliths, refactor
 ----
 -  **2007-2008**, Rostelecom ([http://www.rostelecom.ru/][7]), Russia
 	_Java developer_
-	I started my career as a java developer in the biggest Russian landline telecommunications company. I was working in a chapter of the IT department, where we worked on various small-to-medium sized intranet applications used by company's employees for very different reasons - starting from internal HR tools and finishing with customer's profiles management applications (typically, struts-powered servlets, running on Tomcat that were connected to Oracle databases using mainly JDBC). There I had my first experience with what later will be called single page applications and RESTful API's - first version of Google's GWT framework was released around that time and we adopted it for couple of our projects. No one heard of Jira, agile, test driven development or devops back then, but we were responsible for everything starting from initial design to production deployment and support.
+	I started my career as a java developer in the biggest Russian landline telecommunications company. I was working there in a department responsible for a bunch of intranet applications used by company's employees for many purposes like managing HR matters or dealing with customer's billing. RPCs instead of RESTful APIs, Struts instead of Spring, pure JDBC instead of object-relational mapping tools, no continious deployment or delivery. No one heard of Jira, agile, test driven development or devops back then, but we were responsible for everything starting from initial design to production deployment and supporting of our users.
+
+
+
+I was working in a chapter of the IT department, where we worked on various small-to-medium sized intranet applications used by company's employees for very different reasons - starting from internal HR tools and finishing with customer's profiles management applications (typically, struts-powered servlets, running on Tomcat that were connected to Oracle databases using mainly JDBC). There I had my first experience with what later will be called single page applications and RESTful API's - first version of Google's GWT framework was released around that time and we adopted it for couple of our projects. 
 
 ### _Education & certification_
 - **2001-2006, Mathematician, system programmer, master degree** _(Kuban State University, Krasnodar, Russia)_
