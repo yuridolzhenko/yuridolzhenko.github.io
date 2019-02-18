@@ -1,9 +1,9 @@
 # Yuri Dolzhneko
 ### Full stack software engineer
 ##### Born 19 December, 1984
-##### Fritz Dietrich Kahlenbergstraat, 133 | 1087 LL, Amsterdam | The Netherlands
-##### +31 (0) 634883558 | yuridolzhenko.com | yuri.dolzhenko@gmail.com
----- 
+Fritz Dietrich Kahlenbergstraat, 133 | 1087 LL, Amsterdam | The Netherlands
++31 (0) 634883558 | yuri.dolzhenko@gmail.com
+----
 ### _Summary_
 Full stack developer with about 10 years of experience in designing, developing and maintaining software solutions for large international businesses.
 
@@ -20,7 +20,7 @@ Lots of Java and JVM languages on a backend. Legacy systems, monoliths, refactor
 	I joined LinkIT, another consultancy company to join an efforts to transform a classic consultancy bureau into company that combines traditional on-site consultancy with in-house development of solutions for our clients.
 - **2017 - 2018**, Randstad, ([http://www.randstad.nl][1]), The Netherlands
 	_Consultant_
-	As a consultant I joined Randstad to help company with migration of its systems from the on-premises data centers to the AWS. The goal is not only lift things and move them to another infrastructure, but eventually make applications cloud-native, so we can benefit from all tools AWS can offer. HR business can be difficult and that's exactly the case - we have lots of different frontends, apis and applications that use all sorts of technologies and frameworks - some of them are old and ready to retire, some use RDBMS, some use NOSQL. While migrating we still have to develop new features and maintain ones, and migration itself must be done as seamlessly as possible without customers and business people noticing anything.	
+	As a consultant I joined Randstad to help company with migration of its systems from the on-premises data centers to the AWS. The goal is not only lift things and move them to another infrastructure, but eventually make applications cloud-native, so we can benefit from all tools AWS can offer. HR business can be difficult and that's exactly the case - we have lots of different frontends, apis and applications that use all sorts of technologies and frameworks - some of them are old and ready to retire, some use RDBMS, some use NOSQL. While migrating we still have to develop new features and maintain ones, and migration itself must be done as seamlessly as possible without customers and business people noticing anything.
 - **2014 - 2017**, ING, ([http://www.ing.nl][3]), The Netherlands
 	_Consultant_
 	As a consultant I joined ING bank’s IT department to help with bank's new omni-channel initiative (basically same API endpoints serving data for all channels, from self-service portals for private and business customers to call centers and bank’ branches). RESTful APIs that we built were bridges between Angular-powered frontends and TIBCO messaging infrastructure (to which we connected through Netflix’ Hystrix). I was part of one of many feature-teams consisted of product owner, frontend, backend and tibco developers (typically around 5-9 people), so we could develop complete solutions independently (well, relatively). Besides developing APIs themselves, I also worked on actual frontends that consumed data from APIs.    
