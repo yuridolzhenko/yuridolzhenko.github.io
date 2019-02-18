@@ -47,6 +47,7 @@ Lots of Java and JVM languages on a backend. Legacy systems, monoliths, refactor
 - **2001-2006, Mathematician, system programmer, master degree** _(Kuban State University, Krasnodar, Russia)_
 - **2012, MongoDB Developer** _(10Gen training & certification)_
 - **2013, Certified Spring Professional** _(VMWare training & certification)_
+- **2018, AWS Certified Solutions Architect Associate** _(Amazon Web Services)_
 
 [1]:	http://www.randstad.nl/ "http://www.randstad.nl"
 [2]:	http://www.linkit.nl/ "http://www.linkit.nl"
