@@ -1,6 +1,7 @@
 # Yuri Dolzhneko
 ### Full stack software engineer
 ##### Born 19 December, 1984
+##### Nationality: Dutch
 Fritz Dietrich Kahlenbergstraat, 133 | 1087 LL, Amsterdam | The Netherlands
 +31 (0) 634883558 | yuri.dolzhenko@gmail.com
 ----
@@ -8,13 +9,13 @@ Fritz Dietrich Kahlenbergstraat, 133 | 1087 LL, Amsterdam | The Netherlands
 Full stack developer with about 10 years of experience in designing, developing and maintaining software solutions for large international businesses.
 
 ### _Buzzwords_
-Lots of Java and JVM languages on a backend. Legacy systems, monoliths, refactoring of those. RESTful APIs and microservices powered by Spring framework and others. Data centers on premises or AWS. A bit of data analytics using map-reduce, R and some other fancy tools. SQL or NOSQL databases - all may work, depending on a task to solve. Angular, Typescript, D3.js, Ext JS for creating modern user interfaces and single page applications. NPM, Bower, Maven, Gradle for managing dependencies and building things. Atlassian tools for managing projects and knowledge sharing. Git - for version control, Jenkins and GitLab for continuous integration and delivery, Docker - for portability and predictability. Sonar, JUnit, Mockito, Karma, Jasmine, Selenium to make sure things are reliable. Reactive and functional programming for efficiency and performance. Agile, scrum and devops for making this list complete.
+Lots of Java and JVM languages on a backend. Legacy systems, monoliths, refactoring of those. RESTful APIs, GraphQL, microservices and microapplications powered by Spring framework and others. Data centers on premises, AWS or CloudFoundry. A bit of data analytics using map-reduce, R and some other fancy tools. SQL or NOSQL databases - all may work, depending on a task to solve. Angular, Typescript, D3.js, Ext JS for creating modern user interfaces and single page applications. NPM, Bower, Maven, Gradle for managing dependencies and building things. Atlassian tools for managing projects and knowledge sharing. Git - for version control, Jenkins, GitLab, GutHub, Bamboo for continuous integration and delivery, Docker - for portability and predictability. Sonar, JUnit, Mockito, Karma, Jasmine, Selenium to make sure things are reliable. Reactive and functional programming for efficiency and performance. Agile, scrum and devops for making this list complete.
 
 ### _Experience_
 
 - **2018 - present**, KLM, ([http://www.klm.nl][9]), The Netherlands
 	_Consultant_
-	As a consultant I joined KLM' team that builds software solutions on demand by users across the whole company, from cargo to schedule planning and ground service departments. These solutions are meant to be built quickly in a truly agile manner, so users can start using them ASAP, while providing feedback about new and existing requirements. Applications are normally deployed in a Docker swarms and built using Spring Boot for backend services and Angular for frontend.
+	As a consultant I joined KLM' team that builds software tools andsolutions on demand by customers across the whole company, from cargo to schedule planning and ground service departments. These solutions are meant to be built quickly from scratch in a truly agile manner, so users can start using them ASAP, while providing feedback about new and existing requirements. Applications are normally deployed in Pivotal CloudFoundry and built using Spring framework on a backend and Angular on a frontend.
 - **2017 - present**, LinkIT, ([http://www.linkit.nl][2]), The Netherlands
 	_Consultant_
 	I joined LinkIT, another consultancy company to join an efforts to transform a classic consultancy bureau into company that combines traditional on-site consultancy with in-house development of solutions for our clients.
