@@ -1,8 +1,9 @@
 # Yuri Dolzhneko
 ### Tech lead / Full stack software engineer
 ##### Born 19 December, 1984
-##### Fritz Dietrich Kahlenbergstraat, 133 | 1087 LL, Amsterdam | The Netherlands
-##### +31 (0) 634883558 | yuridolzhenko.com | yuri.dolzhenko@gmail.com
+##### Nationality: Dutch
+Fritz Dietrich Kahlenbergstraat, 133 | 1087 LL, Amsterdam | The Netherlands
++31 (0) 634883558 | yuri.dolzhenko@gmail.com
 ----
 ### _Summary_
 Tech lead / full stack software engineer with about 10 years of experience in designing, developing and maintaining software solutions for large international businesses.
@@ -12,12 +13,15 @@ Lots of Java and JVM languages on a backend. Legacy systems, monoliths, refactor
 
 ### _Experience_
 
-- **2017 - present**, Randstad, ([http://www.randstad.nl][1]), The Netherlands
+- **2018 - present**, KLM, ([http://www.klm.nl][9]), The Netherlands
 	_Consultant_
-	As a consultant I joined Randstad to help company with migration of its systems from the on-premises data centers to the AWS. The goal is not only lift things and move them to another infrastructure, but eventually make applications cloud-native, so we can benefit from all tools AWS can offer. HR business can be difficult and that's exactly the case - we have lots of different frontends, apis and applications that use all sorts of technologies and frameworks - some of them are old and ready to retire, some use RDBMS, some use NOSQL. While migrating we still have to develop new features and maintain ones, and migration itself must be done as seamlessly as possible without customers and business people noticing anything.
+	As a consultant I joined KLM' team that builds software tools andsolutions on demand by customers across the whole company, from cargo to schedule planning and ground service departments. These solutions are meant to be built quickly from scratch in a truly agile manner, so users can start using them ASAP, while providing feedback about new and existing requirements. Applications are normally deployed in Pivotal CloudFoundry and built using Spring framework on a backend and Angular on a frontend.
 - **2017 - present**, LinkIT, ([http://www.linkit.nl][2]), The Netherlands
 	_Consultant_
 	I joined LinkIT, another consultancy company to join an efforts to transform a classic consultancy bureau into company that combines traditional on-site consultancy with in-house development of solutions for our clients.
+- **2017 - 2018**, Randstad, ([http://www.randstad.nl][1]), The Netherlands
+	_Consultant_
+	As a consultant I joined Randstad to help company with migration of its systems from the on-premises data centers to the AWS. The goal is not only lift things and move them to another infrastructure, but eventually make applications cloud-native, so we can benefit from all tools AWS can offer. HR business can be difficult and that's exactly the case - we have lots of different frontends, apis and applications that use all sorts of technologies and frameworks - some of them are old and ready to retire, some use RDBMS, some use NOSQL. While migrating we still have to develop new features and maintain ones, and migration itself must be done as seamlessly as possible without customers and business people noticing anything.
 - **2014 - 2017**, ING, ([http://www.ing.nl][3]), The Netherlands
 	_Consultant_
 	As a consultant I joined ING bank’s IT department to help with bank's new omni-channel initiative (basically same API endpoints serving data for all channels, from self-service portals for private and business customers to call centers and bank’ branches). RESTful APIs that we built were bridges between Angular-powered frontends and TIBCO messaging infrastructure (to which we connected through Netflix’ Hystrix). I was part of one of many feature-teams consisted of product owner, frontend, backend and tibco developers (typically around 5-9 people), so we could develop complete solutions independently (well, relatively). Besides developing APIs themselves, I also worked on actual frontends that consumed data from APIs.    
@@ -44,6 +48,7 @@ Lots of Java and JVM languages on a backend. Legacy systems, monoliths, refactor
 - **2001-2006, Mathematician, system programmer, master degree** _(Kuban State University, Krasnodar, Russia)_
 - **2012, MongoDB Developer** _(10Gen training & certification)_
 - **2013, Certified Spring Professional** _(VMWare training & certification)_
+- **2018, AWS Certified Solutions Architect Associate** _(Amazon Web Services)_
 
 [1]:	http://www.randstad.nl/ "http://www.randstad.nl"
 [2]:	http://www.linkit.nl/ "http://www.linkit.nl"
@@ -53,3 +58,4 @@ Lots of Java and JVM languages on a backend. Legacy systems, monoliths, refactor
 [6]:	http://www.luxoft.ru/
 [7]:	http://www.in-touch.ru/ "http://www.in-touch.ru"
 [8]:	http://www.rostelecom.ru/
+[9]:	http://www.klm.nl/
