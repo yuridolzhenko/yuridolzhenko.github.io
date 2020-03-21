@@ -1,14 +1,14 @@
 # Yuri Dolzhneko
-### Full stack software engineer
+### Tech lead / Full stack software engineer
 ##### Born 19 December, 1984
 ##### Fritz Dietrich Kahlenbergstraat, 133 | 1087 LL, Amsterdam | The Netherlands
 ##### +31 (0) 634883558 | yuridolzhenko.com | yuri.dolzhenko@gmail.com
----- 
+----
 ### _Summary_
-Full stack developer with about 10 years of experience in designing, developing and maintaining software solutions for large international businesses.
+Tech lead / full stack software engineer with about 10 years of experience in designing, developing and maintaining software solutions for large international businesses.
 
 ### _Buzzwords_
-Lots of Java and JVM languages on a backend. Legacy systems, monoliths, refactoring of those. RESTful APIs and microservices powered by Spring framework and others. Data centers on premises or AWS. A bit of data analytics using map-reduce, R and some other fancy tools. SQL or NOSQL databases - all may work, depending on a task to solve. Angular, Typescript, D3.js, Ext JS for creating modern user interfaces and single page applications. NPM, Bower, Maven, Gradle for managing dependencies and building things. Atlassian tools for managing projects and knowledge sharing. Git - for version control, Jenkins and GitLab for continuous integration and delivery, Docker - for portability and predictability. Sonar, JUnit, Mockito, Karma, Jasmine, Selenium to make sure things are reliable. Reactive and functional programming for efficiency and performance. Agile, scrum and devops for making this list complete.
+Lots of Java and JVM languages on a backend. Legacy systems, monoliths, refactoring of those. RESTful APIs and microservices powered by Spring framework and others. Data centers on premises, AWS and Pivotal Cloud Foundry. A bit of data analytics using map-reduce, R and some other fancy tools. SQL or NOSQL databases - both may work, depending on a task to solve. Angular, Typescript, D3.js, Ext JS for creating user interfaces SPAs, PWAs or mobile applications. NPM, Maven, Gradle for managing dependencies and building things. Atlassian tools for managing projects and knowledge sharing. Git - for version control, Jenkins, CircleCI and GitLab for continuous integration and delivery, Docker - for portability and predictability, Kubernetes - for running things and scale them up. Sonar, JUnit, Mockito, Karma, Jasmine, Selenium to make sure things are reliable. Reactive and functional programming for efficiency and performance. Agile, scrum and devops for making this list complete.
 
 ### _Experience_
 
